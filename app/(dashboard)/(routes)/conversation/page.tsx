@@ -60,7 +60,7 @@ const ConversationPage = () => {
   return (
     <div>
       <Heading
-        title="conversation"
+        title="Conversation"
         description="Our most advanced conversation modal."
         icon={MessageSquare}
         iconColor="text-violet-500"
